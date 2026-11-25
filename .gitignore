@@ -3,3 +3,9 @@ target/
 __pycache__/
 *.pyc
 .env
+commands/
+javascript/
+python/
+setup/
+student_docs/
+README_START_HERE.txt
